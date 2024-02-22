@@ -1,0 +1,11 @@
+package cohort18_first_repositoryfisrtPackage;
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+
+		
+		System.out.println("Hello World.");
+	}
+
+}
